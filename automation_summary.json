@@ -1,0 +1,28 @@
+{
+  "product_info": {
+    "name": "Premium Himalayan Pink Salt Body Scrub",
+    "category": "Body Care",
+    "price": 29.99,
+    "features": [
+      "Exfoliating",
+      "Natural",
+      "Detoxifying",
+      "Moisturizing",
+      "Dead Sea minerals"
+    ]
+  },
+  "ai_generated_content": {
+    "description": "```json\n{\n  \"description\": \"Unveil your skin's natural radiance with our **Premium Himalayan Pink Salt Body Scrub**. This luxurious **body care** treatment gently exfoliates and detoxifies, leaving yo...",
+    "seo_title": "",
+    "meta_description": "",
+    "tags": [],
+    "keywords": []
+  },
+  "recommendation_insights": {
+    "model_trained": true,
+    "users_in_system": 100,
+    "products_in_system": 30,
+    "total_ratings": 1497
+  },
+  "timestamp": "2025-08-15T18:05:05.652439"
+}

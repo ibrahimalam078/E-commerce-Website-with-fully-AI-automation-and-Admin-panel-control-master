@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+ai_env/
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables (sensitive data)
+.env
+
+# Logs
+*.log
+automation.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files (too large for git)
+*.pkl
+*.model
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Test output files
+screenshot_output.txt
+system_screenshot.txt
+automation_demo.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation build
+docs/_build/

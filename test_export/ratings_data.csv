@@ -1,0 +1,4 @@
+user_id,product_id,rating,timestamp
+user_test_1,Tea Tree Oil,4,2025-08-14 22:03:58
+user_test_2,Turmeric Extract,3,2025-08-14 22:03:58
+user_test_3,Lavender Oil,4,2025-08-14 22:03:58

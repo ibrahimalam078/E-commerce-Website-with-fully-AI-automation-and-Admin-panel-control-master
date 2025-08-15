@@ -1,0 +1,34 @@
+
+numpy
+transformers
+
+# Core AI and ML libraries
+google-generativeai==0.3.2
+transformers==4.36.2
+torch==2.1.2
+torchvision==0.16.2
+scikit-surprise==1.1.3
+Pillow==10.1.0
+
+# Web framework and API
+Flask==3.0.0
+Flask-CORS==4.0.0
+requests==2.31.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+python-dotenv==1.0.0
+
+# Image processing
+opencv-python==4.8.1.78
+
+# Optional: For advanced features
+scikit-learn==1.3.2
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Development and testing
+pytest==7.4.3
+black==23.12.0
+flake8==6.1.0

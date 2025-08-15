@@ -1,0 +1,16 @@
+user_id,product_id,interaction_type,interaction_value,timestamp
+user_test_1,Lavender Oil,view,,2025-08-14 22:03:58
+user_test_1,Tea Tree Oil,view,,2025-08-14 22:03:58
+user_test_1,Turmeric Extract,view,,2025-08-14 22:03:58
+user_test_2,Lavender Oil,view,,2025-08-14 22:03:58
+user_test_2,Tea Tree Oil,view,,2025-08-14 22:03:58
+user_test_2,Turmeric Extract,view,,2025-08-14 22:03:58
+user_test_3,Lavender Oil,view,,2025-08-14 22:03:58
+user_test_3,Tea Tree Oil,view,,2025-08-14 22:03:58
+user_test_3,Turmeric Extract,view,,2025-08-14 22:03:58
+user_test_1,Turmeric Extract,purchase,34.28203625057798,2025-08-14 22:03:58
+user_test_2,Tea Tree Oil,purchase,36.62986634499984,2025-08-14 22:03:58
+user_test_3,Tea Tree Oil,purchase,30.607272756958636,2025-08-14 22:03:58
+user_test_1,Tea Tree Oil,rating,4.0,2025-08-14 22:03:58
+user_test_2,Turmeric Extract,rating,3.0,2025-08-14 22:03:58
+user_test_3,Lavender Oil,rating,4.0,2025-08-14 22:03:58
